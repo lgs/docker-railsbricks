@@ -1,5 +1,7 @@
+# RailsBricks, Rails app creator Dockerfile
+# https://index.docker.io/u/lgsd/docker-railsbricks/
 
-FROM docker-rails/Dockerfile
+FROM lgsd/docker-rails
 
 MAINTAINER Luca G. Soave <luca.soave@gmail.com>
 
